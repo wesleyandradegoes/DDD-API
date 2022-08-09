@@ -1,0 +1,17 @@
+C:\Users\wesley.goes\source\repos\RestApiFavoriteContact\RestApiFavoriteContact.Application\bin\Debug\net5.0\RestApiFavoriteContact.Application.deps.json
+C:\Users\wesley.goes\source\repos\RestApiFavoriteContact\RestApiFavoriteContact.Application\bin\Debug\net5.0\RestApiFavoriteContact.Application.dll
+C:\Users\wesley.goes\source\repos\RestApiFavoriteContact\RestApiFavoriteContact.Application\bin\Debug\net5.0\ref\RestApiFavoriteContact.Application.dll
+C:\Users\wesley.goes\source\repos\RestApiFavoriteContact\RestApiFavoriteContact.Application\bin\Debug\net5.0\RestApiFavoriteContact.Application.pdb
+C:\Users\wesley.goes\source\repos\RestApiFavoriteContact\RestApiFavoriteContact.Application\obj\Debug\net5.0\RestApiFavoriteContact.Application.csproj.AssemblyReference.cache
+C:\Users\wesley.goes\source\repos\RestApiFavoriteContact\RestApiFavoriteContact.Application\obj\Debug\net5.0\RestApiFavoriteContact.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wesley.goes\source\repos\RestApiFavoriteContact\RestApiFavoriteContact.Application\obj\Debug\net5.0\RestApiFavoriteContact.Application.AssemblyInfoInputs.cache
+C:\Users\wesley.goes\source\repos\RestApiFavoriteContact\RestApiFavoriteContact.Application\obj\Debug\net5.0\RestApiFavoriteContact.Application.AssemblyInfo.cs
+C:\Users\wesley.goes\source\repos\RestApiFavoriteContact\RestApiFavoriteContact.Application\obj\Debug\net5.0\RestApiFavoriteContact.Application.csproj.CoreCompileInputs.cache
+C:\Users\wesley.goes\source\repos\RestApiFavoriteContact\RestApiFavoriteContact.Application\obj\Debug\net5.0\RestApiFavoriteContact.Application.dll
+C:\Users\wesley.goes\source\repos\RestApiFavoriteContact\RestApiFavoriteContact.Application\obj\Debug\net5.0\ref\RestApiFavoriteContact.Application.dll
+C:\Users\wesley.goes\source\repos\RestApiFavoriteContact\RestApiFavoriteContact.Application\obj\Debug\net5.0\RestApiFavoriteContact.Application.pdb
+C:\Users\wesley.goes\source\repos\RestApiFavoriteContact\RestApiFavoriteContact.Application\bin\Debug\net5.0\RestApiFavoriteContact.Domain.Core.dll
+C:\Users\wesley.goes\source\repos\RestApiFavoriteContact\RestApiFavoriteContact.Application\bin\Debug\net5.0\RestApiFavoriteContact.Domain.dll
+C:\Users\wesley.goes\source\repos\RestApiFavoriteContact\RestApiFavoriteContact.Application\bin\Debug\net5.0\RestApiFavoriteContact.Domain.Core.pdb
+C:\Users\wesley.goes\source\repos\RestApiFavoriteContact\RestApiFavoriteContact.Application\bin\Debug\net5.0\RestApiFavoriteContact.Domain.pdb
+C:\Users\wesley.goes\source\repos\RestApiFavoriteContact\RestApiFavoriteContact.Application\obj\Debug\net5.0\RestApiFavoriteContact.Application.csproj.CopyComplete

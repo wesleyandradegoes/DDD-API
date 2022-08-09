@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "RestApiFavoriteContact.Domain.Services/1.0.0": {
+        "dependencies": {
+          "RestApiFavoriteContact.Domain": "1.0.0",
+          "RestApiFavoriteContact.Domain.Core": "1.0.0"
+        },
+        "runtime": {
+          "RestApiFavoriteContact.Domain.Services.dll": {}
+        }
+      },
+      "RestApiFavoriteContact.Domain/1.0.0": {
+        "runtime": {
+          "RestApiFavoriteContact.Domain.dll": {}
+        }
+      },
+      "RestApiFavoriteContact.Domain.Core/1.0.0": {
+        "dependencies": {
+          "RestApiFavoriteContact.Domain": "1.0.0"
+        },
+        "runtime": {
+          "RestApiFavoriteContact.Domain.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RestApiFavoriteContact.Domain.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RestApiFavoriteContact.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RestApiFavoriteContact.Domain.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
